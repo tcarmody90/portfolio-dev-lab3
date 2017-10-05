@@ -5,8 +5,9 @@ Group Members: Joshua Zuber, Cesar Perez, Thomas Carmody
 
 PAGES:
 
-1. Home
-2. Tutorials/Recipe
-3. Resources
-4. About Us/Testimonials
-5. Contact/Find Us Map
+1. Home (Thomas)
+2. Tutorials (Josh)
+3. Recipe (Josh)
+4. Resources (Cesar)
+5. About Us/Testimonials (Cesar)
+6. Contact/Find Us Map (Thomas)
