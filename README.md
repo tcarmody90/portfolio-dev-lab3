@@ -11,3 +11,5 @@ PAGES:
 4. Resources (Cesar)
 5. About Us/Testimonials (Cesar)
 6. Contact/Find Us Map (Thomas)
+
+Google Fonts: Lato
